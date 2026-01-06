@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Goyal+%F0%9F%91%8B;Full-Stack+Developer;CS+Final+Year+Student;Building+Real-Time+Systems" alt="Typing SVG" />
 </h1>
 
----
-
 ## 🚀 About Me
 
 🎓 **Final-year CS student** | 💻 **Full-Stack Developer** | 🚀 **Building production-ready apps**
