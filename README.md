@@ -2,14 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Goyal+%F0%9F%91%8B;Full-Stack+Developer;CS+Final+Year+Student;Building+Real-Time+Systems" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashish-goyal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashish-goyal-1&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -141,10 +133,6 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashish-goyal-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashish-goyal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ashish-goyal-1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </p>
 
 ---
