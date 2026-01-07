@@ -6,7 +6,7 @@
 
 ## About Me
 
-Final-year CS student | Full-Stack Developer | Shipping production-ready applications
+Final-year CS student focused on backend systems, real-time synchronization, and API design.
 
 - Building **end-to-end applications** — from React frontends to Node.js/Spring Boot backends
 - Experienced with **databases** (MongoDB, PostgreSQL), **real-time systems** (WebSockets, CRDTs), and **deployment**
@@ -44,6 +44,8 @@ Final-year CS student | Full-Stack Developer | Shipping production-ready applica
 ---
 
 ## Featured Projects
+
+Below are selected projects that showcase backend system design, real-time synchronization, and algorithmic problem-solving.
 
 <table>
   <tr>
