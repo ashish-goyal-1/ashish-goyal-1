@@ -1,23 +1,30 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ashish+Goyal+%F0%9F%91%8B;Full-Stack+Developer;CS+Final+Year+Student;Building+Real-Time+Systems" alt="Typing SVG" />
-</h1>
+# Ashish Goyal
+
+**Backend-leaning Full-Stack Developer** building real-time and distributed systems.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 **Final-year CS student** | 💻 **Full-Stack Developer** | 🚀 **Building production-ready apps**
+Final-year CS student | Full-Stack Developer | Shipping production-ready applications
 
-- 🔭 I build **end-to-end applications** — from React frontends to Node.js/Spring Boot backends
-- 🛠️ Experienced with **databases** (MongoDB, PostgreSQL), **real-time systems** (WebSockets, CRDTs), and **deployment** (Render)
-- 🌱 Currently learning **System Design** and **Distributed Systems**
-- 💬 Ask me about **MERN Stack, Spring Boot, WebSockets, REST APIs**
-
-I've shipped **4 full-stack projects** with live deployments — check them out below! 👇
+- Building **end-to-end applications** — from React frontends to Node.js/Spring Boot backends
+- Experienced with **databases** (MongoDB, PostgreSQL), **real-time systems** (WebSockets, CRDTs), and **deployment**
+- Currently learning **System Design** and **Distributed Systems**
+- Interested in **backend systems, real-time synchronization, and API design trade-offs**
 
 ---
 
-## 💻 Tech Stack
+## Engineering Focus
+
+- Backend-first architecture and API design
+- Real-time synchronization and data consistency
+- Algorithmic optimization and correctness
+- System design fundamentals and scalability trade-offs
+
+---
+
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,12 +43,12 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">💰 SplitBill</h3>
+      <h3 align="center">SplitBill</h3>
       <p align="center">
         <a href="https://github.com/ashish-goyal-1/SplitBill">
           <img src="https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -62,7 +69,7 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🛡️ Sentinel</h3>
+      <h3 align="center">Sentinel</h3>
       <p align="center">
         <a href="https://github.com/ashish-goyal-1/Sentinel">
           <img src="https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -85,7 +92,7 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 SyncCode</h3>
+      <h3 align="center">SyncCode</h3>
       <p align="center">
         <a href="https://github.com/ashish-goyal-1/SyncCode">
           <img src="https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -106,7 +113,7 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Personal Finance API</h3>
+      <h3 align="center">Personal Finance API</h3>
       <p align="center">
         <a href="https://github.com/ashish-goyal-1/personal-finance-manager">
           <img src="https://img.shields.io/badge/View_Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
@@ -128,19 +135,6 @@ I've shipped **4 full-stack projects** with live deployments — check them out 
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashish-goyal-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashish-goyal-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</p>
-
-<p align="center">
-  <i>💡 Open to SDE roles and exciting collaboration opportunities!</i>
+  <i>Open to SDE roles and backend engineering opportunities.</i>
 </p>
