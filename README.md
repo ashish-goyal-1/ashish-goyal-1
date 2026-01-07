@@ -11,13 +11,14 @@ Final-year CS student focused on backend systems, real-time synchronization, and
 - Building **end-to-end applications** — from React frontends to Node.js/Spring Boot backends
 - Experienced with **databases** (MongoDB, PostgreSQL), **real-time systems** (WebSockets, CRDTs), and **deployment**
 - Currently learning **System Design** and **Distributed Systems**
-- Interested in **backend systems, real-time synchronization, and API design trade-offs**
+
+I push complex logic to the frontend when system design demands low latency, scalability, or edge execution.
 
 ---
 
 ## Engineering Focus
 
-- Backend-first architecture and API design
+- Backend-first architecture with deliberate frontend integration
 - Real-time synchronization and data consistency
 - Algorithmic optimization and correctness
 - System design fundamentals and scalability trade-offs
@@ -137,6 +138,4 @@ Below are selected projects that showcase backend system design, real-time synch
 
 ---
 
-<p align="center">
-  <i>Open to SDE roles and backend engineering opportunities.</i>
-</p>
+
